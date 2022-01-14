@@ -50,3 +50,4 @@ https://ads.yap.yahoo.com/
 ads.reddit.com
 d.reddit.com
 widgets.pinterest.com
+api-hotjar.com
