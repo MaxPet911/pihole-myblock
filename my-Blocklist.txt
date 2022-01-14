@@ -11,3 +11,13 @@ ads.pinterest.com
 ads-dev.pinterest.com
 analytics.pinterest.com
 analytics.tiktok.com
+cdn.luckyorange.com
+cs.luckyorange.net
+pixel.facebook.com
+an.facebook.com
+analytics-sg.tiktok.com
+ads.yahoo.com
+ads.yap.yahoo.com
+analytics.mobile.yandex.net
+extmaps-api.yandex.net
+adsdk.yandex.ru
