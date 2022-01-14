@@ -51,3 +51,8 @@ ads.reddit.com
 d.reddit.com
 widgets.pinterest.com
 api-hotjar.com
+brainberries.co
+www.adv.rbc.ru
+ad.doubleclick.net
+ad.doubleclick.net/ddm/trackclk/
+yandex.ru/an/count/
