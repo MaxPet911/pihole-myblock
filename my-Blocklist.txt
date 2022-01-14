@@ -56,3 +56,7 @@ www.adv.rbc.ru
 ad.doubleclick.net
 ad.doubleclick.net/ddm/trackclk/
 yandex.ru/an/count/
+hw-cdn.trafficjunky.net
+cdn.rtbix.com
+cdn.rtbix.com/u4/
+hw-cdn.trafficjunky.net/uploaded_content/creative/
