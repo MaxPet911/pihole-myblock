@@ -41,3 +41,12 @@ click.oneplus.cn
 *.bugsnag.com
 https://notify.bugsnag.com
 notify.bugsnag.com
+app.bugsnag.com
+api.bugsnag.com
+sessions.bugsnag.com
+app.getsentry.com
+ads.tiktok.com
+https://ads.yap.yahoo.com/
+ads.reddit.com
+d.reddit.com
+widgets.pinterest.com
